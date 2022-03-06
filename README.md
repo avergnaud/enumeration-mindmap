@@ -8,6 +8,12 @@
 
 "In passive reconnaissance, you rely on publicly available knowledge. It is the knowledge that you can access from publicly available resources without directly engaging with the target. Think of it like you are looking at target territory from afar without stepping foot on that territory." tryhackme
 
+* whois
+* nslookup
+* dig
+* DNSDumpster
+* Shodan.io
+
 ### active reconnaissance
 
 "doesn't matter if touching or not touching any infrastructure -- the important part is the recon comes first in order to determine the target(s) which normally consist of company and partner names, employee names, identification of technology vendors in use, identification of public IP ranges, primary top-level domain names, email address structure, et al (think mindmaps or scratch pads)"
