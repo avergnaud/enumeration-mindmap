@@ -2,7 +2,7 @@
 
 ## reconnaissance
 
-"Reconnaissance (recon) can be defined as a preliminary survey to gather information about a target. It is the first step in [The Unified Kill Chain](./The-Unified-Kill-Chain.pdf) to gain an initial foothold on a system."
+"Reconnaissance (recon) can be defined as a preliminary survey to gather information about a target. It is the first step in [The Unified Kill Chain](https://raw.githubusercontent.com/avergnaud/enumeration-mindmap/main/The-Unified-Kill-Chain.pdf) to gain an initial foothold on a system."
 
 ### passive reconnaissance
 
